@@ -1,0 +1,1 @@
+The User Registration Shred provides a feature for registering new users via a REST API endpoint. It follows the Hexagonal Architecture pattern, with a clear separation between the Application, Domain, and Infrastructure layers. The Domain layer contains business logic encapsulated within entities a
